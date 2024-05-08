@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Mean Developer
+Android Developer || Full Stack Mean Developer
 
 
 # 💻 Tech Stack:
